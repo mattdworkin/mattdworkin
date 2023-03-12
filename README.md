@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a personalized training app.<br>👯 I’m looking to collaborate on new project ideas.<br>🤝 I’m looking for help with implementing datasets.<br>🌱 I’m currently learning more about cloud computing.<br>💬 Ask me about running, movies, or automated travel!<br>⚡ Fun fact: I have a pet cat named pampers!
+🔭 I’m currently working on a personalized running training app.<br>👯 I’m looking to collaborate on new project ideas.<br>🤝 I’m looking for help with implementing datasets.<br>🌱 I’m currently learning more about cloud computing.<br>💬 Ask me about running, movies, or automated travel!<br>⚡ Fun fact: I have a pet cat named pampers!
 
 
 ## 🌐 Socials:
