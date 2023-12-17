@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a personalized running training app.<br>👯 I’m looking to collaborate on new project ideas.<br>🤝 I’m looking for help with implementing datasets.<br>🌱 I’m currently learning more about cloud computing.<br>
+🔭 I’m currently working on a machine learning project for predicting stock prices using historical data!<br>👯 I’m looking to collaborate on new project and I'm open to any constructive ideas, thoughts, criticism, etc.<br>🤝 I’m looking for help with implementing datasets for my project.<br>🌱 I’m currently learning more about cloud computing and FPGA Engineering.<br>
 
 
 ## 🌐 Socials:
