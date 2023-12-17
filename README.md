@@ -1,11 +1,6 @@
 # 💫 About Me:
-Hey! I'm Matt. I'm a college student majoring in CS at Georgia Tech. Follow me and I'll follow you back!
-Let's connect and explore the boundless possibilities in the tech world!
-
-🔭 I’m working on: A machine learning project to analyze and predict stock prices with historical data.
-👯 I’m looking to collaborate on: Innovative projects, especially those involving AI and Cloud Computing.
-🤝 I’m seeking: Insights on data acquisition and processing for financial datasets.
-🌱 I’m learning: Advanced concepts in Cloud Computing, AI algorithms, and exploring FPGA Engineering for hardware acceleration.
+Hey! I'm Matt. I'm a college student majoring in CS at Georgia Tech. Follow me and I'll follow you back!<br>
+Let's connect and explore the boundless possibilities in the tech world!<br>🔭 I’m currently working on a machine learning project for predicting stock prices using historical data!<br>👯 I’m looking to collaborate on new project and I'm open to any constructive ideas, thoughts, criticism, etc.<br>🤝 I’m looking for help with implementing datasets for my project.<br>🌱 I’m currently learning more about cloud computing and FPGA Engineering.<br>
 
 
 ## 🌐 Socials:
@@ -25,5 +20,5 @@ Let's connect and explore the boundless possibilities in the tech world!
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-✨ Each line of code gets me closer to understanding the complex tapestry of the stock market's ebb and flow. Join me on this journey!
+✨ Each line of code gets me closer to understanding the complex tapestry of the stock market's ebb and flow.<br> Join me on this journey!<br>
 ---  
