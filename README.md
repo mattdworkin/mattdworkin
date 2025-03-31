@@ -1,5 +1,5 @@
 # About Me:
-Hey! I'm Matt. I'm a college student majoring in CS at Georgia Tech. Follow me and I'll follow you back! Let's connect and explore the boundless possibilities in the tech world!<br><br>
+Hey! I'm Matthew. I'm a college student majoring in CS at Georgia Tech. Follow me and I'll follow you back! Let's connect and explore the boundless possibilities in the tech world!<br><br>
 🔭 I’m working on: A machine learning project to analyze and predict stock prices with historical data.<br>
 👯 I’m looking to collaborate on: Innovative projects, especially those involving AI and Cloud Computing.<br>
 🤝 I’m seeking: Insights on data acquisition and processing for financial datasets.<br>
