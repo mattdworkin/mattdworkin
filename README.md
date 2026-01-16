@@ -1,6 +1,6 @@
 # About Me:
 
-Hey! I'm Matthew. I'm a college student majoring in CS at Georgia Tech. Follow me and I'll follow you back! Let's connect and explore the boundless possibilities in the tech world!
+Hey! I'm Matthew. I'm a college student majoring in CS at Georgia Tech.
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
