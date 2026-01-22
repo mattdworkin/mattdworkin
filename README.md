@@ -1,5 +1,5 @@
 
-Hey! I'm Matthew. I'm studying computer science at Georgia Tech.
+Thanks for stopping by! My name is Matthew and I'm studying computer science at Georgia Tech.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Matthew-Dworkin)
 
